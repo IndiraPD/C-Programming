@@ -9,6 +9,7 @@ int main(void) {
 		scanf("%d",&arr[i]);
 	}
 	for(i=0;i<n;i++)
+		
 	{
 		count=0;
 		for(j=i+1;j<n;j++)
